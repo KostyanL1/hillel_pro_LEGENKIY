@@ -1,4 +1,4 @@
-package org.lesson2.converter.app;
+package org.lesson3.converter.app;
 
 import java.util.Scanner;
 
@@ -8,7 +8,7 @@ public class Main {
 
         System.out.println("====================INFO===================");
         System.out.println("|   Converter App.                        |");
-        System.out.println("|  App for converting Celsius to Fahrenheit.|");
+        System.out.println("|App for converting Celsius to Fahrenheit.|");
         System.out.println("|   Version 1.0.                          |");
         System.out.println("===========================================");
 
