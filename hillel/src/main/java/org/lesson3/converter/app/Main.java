@@ -1,4 +1,4 @@
-package org.lesson2.converter.app;
+package org.lesson5.converter.app;
 
 import java.util.Scanner;
 
