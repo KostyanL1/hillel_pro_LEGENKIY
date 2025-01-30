@@ -1,0 +1,4 @@
+FILE: files/additionalTasksFiles/
+LEVEL: DEBUG
+MAX-SIZE: 1024
+FORMAT: [HH:mm:ss][LEVEL] Message: MESSAGE
