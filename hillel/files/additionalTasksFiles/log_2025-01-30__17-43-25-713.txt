@@ -1,0 +1,9 @@
+[2025-01-30T17:43:25.713042200][DEBUG] Message: log debug message
+[2025-01-30T17:43:25.713042200][DEBUG] Message: log info message
+[2025-01-30T17:43:25.714293200][DEBUG] Message: log debug message
+[2025-01-30T17:43:25.714293200][DEBUG] Message: log info message
+[2025-01-30T17:43:25.714293200][DEBUG] Message: log debug message
+[2025-01-30T17:43:25.714293200][DEBUG] Message: log info message
+[2025-01-30T17:43:25.715296100][DEBUG] Message: log debug message
+[2025-01-30T17:43:25.715296100][DEBUG] Message: log info message
+[2025-01-30T17:43:25.715296100][DEBUG] Message: log debug message
