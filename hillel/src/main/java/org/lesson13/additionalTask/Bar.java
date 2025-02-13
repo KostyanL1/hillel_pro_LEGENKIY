@@ -37,14 +37,14 @@ public class Bar {
     private final ExecutorService bartenders = Executors.newFixedThreadPool(3);
     private final BlockingDeque<Order> orders = new LinkedBlockingDeque<>();
 
-    public synchronized void getOrder(Cocktail cocktail, String name) throws InterruptedException {
+    public void getOrder(Cocktail cocktail, String name) throws InterruptedException {
         Thread.sleep(200);
         System.out.println("Замовлення від клієнта " + name + " прийнято!");
         orders.add(new Order(name, cocktail));
         orderToBartender(name);
     }
 
-    public synchronized void orderToBartender(String name) throws InterruptedException {
+    public void orderToBartender(String name) throws InterruptedException {
         Thread.sleep(200);
         System.out.println("Замовлення від клієнта " + name + " передано бармену");
 

@@ -8,7 +8,6 @@ public class Bartender implements Runnable{
 
     private final Bar bar;
 
-
     @Override
     public void run() {
         bar.makeCocktail();
