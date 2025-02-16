@@ -8,6 +8,7 @@ import java.util.List;
 
 @Data
 public class Client implements Runnable{
+
     private final Bar bar;
     private final String name;
 
@@ -33,7 +34,7 @@ public class Client implements Runnable{
     }
 
 
-    public synchronized Cocktail chooseCocktail(List<Cocktail> cocktails){
+    public Cocktail chooseCocktail(List<Cocktail> cocktails){
         int cocktail = (int) (Math.random() * cocktails.size());
         return cocktails.get(cocktail);
     }
