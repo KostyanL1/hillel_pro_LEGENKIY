@@ -23,7 +23,19 @@
             <version>1.18.30</version>
             <scope>provided</scope>
         </dependency>
+        <!-- passwordGenerator -->
+        <dependency>
+            <groupId>org.legenkiy</groupId>
+            <artifactId>passwordGenerator</artifactId>
+            <version>1.0-SNAPSHOT</version>
+        </dependency>
+
+
+
+
     </dependencies>
+
+
 
 
 </project>
