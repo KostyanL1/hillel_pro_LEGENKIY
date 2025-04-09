@@ -4,7 +4,6 @@ import lombok.extern.java.Log;
 
 public class Main {
 
-
     public static void main(String[] args) {
 
 
@@ -15,6 +14,4 @@ public class Main {
         Logger.getInstance().printLog();
 
     }
-
-
 }

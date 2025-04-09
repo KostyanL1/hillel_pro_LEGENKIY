@@ -5,12 +5,8 @@ import java.util.ArrayList;
 import java.util.List;
 
 public class Logger {
-
     private List<String> logs = new ArrayList<>();
-
     private static Logger logger;
-
-
     private Logger(){
     }
 
@@ -30,4 +26,20 @@ public class Logger {
          this.logs.forEach(System.out::println);
      }
 
+    public static Logger getInstance() {
+        if (logger == null){
+            logger = new Logger();
+        }
+        return logger;
+
+    }
+
+    public void log(Level level, String message){
+        this.logs.add(LocalTime.now() + " - " + "[" + level + "] " + "[" + message + "];");
+    }
+
+    public  void printLog(){
+        this.logs.forEach(System.out::println);
+    }
+  
 }
