@@ -1,0 +1,14 @@
+19:14:13.341 [Thread-0] INFO  org.lesson33.Server - Клієнт підключився. ActiveConnection(id=1, connectionTime=2025-05-08T19:14:13.331590400, socket=/127.0.0.1:1111)
+19:37:56.715 [Thread-0] INFO  org.lesson33.Server - Клієнт підключився. ActiveConnection(id=1, connectionTime=2025-05-08T19:37:56.705974600, socket=/127.0.0.1:1111)
+19:39:39.954 [Thread-0] INFO  org.lesson33.Server - Клієнт підключився. ActiveConnection(id=1, connectionTime=2025-05-08T19:39:39.944561400, socket=/127.0.0.1:1111)
+19:41:26.051 [Thread-0] INFO  org.lesson33.Server - Клієнт підключився. ActiveConnection(id=1, connectionTime=2025-05-08T19:41:26.042910900, socket=/127.0.0.1:1111)
+19:48:01.303 [Thread-0] INFO  org.lesson33.Server - Клієнт підключився. ActiveConnection(id=1, connectionTime=2025-05-08T19:48:01.292589900, socket=/127.0.0.1:1111)
+19:48:49.158 [Thread-0] INFO  org.lesson33.Server - Клієнт підключився. ActiveConnection(id=1, connectionTime=2025-05-08T19:48:49.149699300, socket=/127.0.0.1:1111)
+19:50:04.541 [Thread-0] INFO  org.lesson33.Server - Клієнт підключився. ActiveConnection(id=1, connectionTime=2025-05-08T19:50:04.530421600, socket=/127.0.0.1:1111)
+19:53:26.492 [Thread-0] INFO  org.lesson33.Server - Клієнт підключився. ActiveConnection(id=1, connectionTime=2025-05-08T19:53:26.482184100, socket=/127.0.0.1:1111)
+19:54:05.935 [Thread-0] INFO  org.lesson33.Server - Клієнт підключився. ActiveConnection(id=1, connectionTime=2025-05-08T19:54:05.925665800, socket=/127.0.0.1:1111)
+20:16:37.090 [Thread-0] INFO  org.lesson33.Server - Сервер запущено на порту 1111.
+20:16:44.133 [Thread-1] INFO  org.lesson33.Server - Клієнт підключився. ActiveConnection(id=1, connectionTime=2025-05-08T20:16:44.126135300, socket=/127.0.0.1:54614)
+20:19:52.953 [Thread-0] INFO  org.lesson33.Server - Сервер запущено на порту 1111.
+20:19:57.682 [Thread-1] INFO  org.lesson33.Server - Клієнт підключився. ActiveConnection(id=1, connectionTime=2025-05-08T20:19:57.674240300, socket=/127.0.0.1:54692)
+20:20:10.978 [Thread-1] INFO  org.lesson33.Server - Клієнт від'єднався. /127.0.0.1:54692
