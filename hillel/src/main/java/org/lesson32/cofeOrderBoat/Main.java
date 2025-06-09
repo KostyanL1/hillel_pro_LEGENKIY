@@ -1,7 +1,5 @@
 package org.lesson32.cofeOrderBoat;
 
-import org.lesson24.app.Logger;
-
 public class Main {
 
     public static void main(String[] args) {

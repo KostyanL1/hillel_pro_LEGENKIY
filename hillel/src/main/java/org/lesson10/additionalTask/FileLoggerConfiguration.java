@@ -1,8 +1,5 @@
 package org.lesson10.additionalTask;
 
-import java.nio.file.Path;
-import java.time.LocalDateTime;
-
 //"src/main/java/org/lesson10/additionalTask/files"
 
 public class FileLoggerConfiguration {

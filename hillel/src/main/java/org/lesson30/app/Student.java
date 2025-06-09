@@ -2,7 +2,6 @@ package org.lesson30.app;
 
 import jakarta.persistence.*;
 import lombok.*;
-import org.hibernate.annotations.Nationalized;
 
 import java.util.HashSet;
 import java.util.Objects;
