@@ -2,7 +2,6 @@ package org.lesson17.app;
 
 import java.util.*;
 import java.util.stream.Collectors;
-import java.util.stream.Stream;
 
 // Main.java
 public class Main {

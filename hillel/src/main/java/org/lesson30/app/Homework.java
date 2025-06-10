@@ -2,7 +2,6 @@ package org.lesson30.app;
 
 
 import jakarta.persistence.*;
-import jdk.jfr.StackTrace;
 import lombok.Getter;
 import lombok.Setter;
 import lombok.ToString;

@@ -1,4 +1,4 @@
-package org.legenkiy;
+package add.legenkiy;
 
 public class PasswordGenerator {
     public String generatePassword(int length){

@@ -1,6 +1,5 @@
 package org.lesson9.additionalTask;
 
-import java.io.NotActiveException;
 import java.util.NoSuchElementException;
 
 public class Box<T extends Fruit> {

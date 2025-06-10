@@ -1,6 +1,5 @@
 package org.lesson15.app;
 
-import java.util.HashMap;
 import java.util.Map;
 import java.util.concurrent.atomic.AtomicInteger;
 
