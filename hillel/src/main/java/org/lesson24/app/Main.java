@@ -1,7 +1,5 @@
 package org.lesson24.app;
 
-import lombok.extern.java.Log;
-
 public class Main {
 
     public static void main(String[] args) {
