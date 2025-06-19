@@ -10,6 +10,7 @@
     <packaging>pom</packaging>
     <modules>
         <module>lesson37</module>
+        <module>lesson40</module>
     </modules>
 
     <properties>
@@ -112,11 +113,17 @@
             <artifactId>spring-context</artifactId>
             <version>7.0.0-M6</version>
         </dependency>
-        <!-- https://mvnrepository.com/artifact/org.springframework/spring-jdbc -->
+        <!-- https://mvnrepository.com/artifact/org.springframework/spring-webmvc -->
         <dependency>
             <groupId>org.springframework</groupId>
-            <artifactId>spring-jdbc</artifactId>
+            <artifactId>spring-webmvc</artifactId>
             <version>6.2.8</version>
+        </dependency>
+        <!-- https://mvnrepository.com/artifact/org.springframework.boot/spring-boot-starter-web -->
+        <dependency>
+            <groupId>org.springframework.boot</groupId>
+            <artifactId>spring-boot-starter-web</artifactId>
+            <version>3.5.0</version>
         </dependency>
     </dependencies>
 </project>
